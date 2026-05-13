@@ -1,0 +1,11 @@
+# Keep dependencies for GitHub Actions up-to-date
+# More information: https://docs.github.com/en/code-security/concepts/supply-chain-security/about-the-dependabot-yml-file
+
+version: 2
+
+updates:
+
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"

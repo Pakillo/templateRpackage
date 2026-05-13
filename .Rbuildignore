@@ -1,3 +1,8 @@
 ^templateRpackage\.Rproj$
 ^\.Rproj\.user$
 ^LICENSE\.md$
+^CODE_OF_CONDUCT\.md$
+^CONTRIBUTING\.md$
+^README\.Rmd$
+^README\.html$
+^\.github$
