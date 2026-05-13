@@ -102,6 +102,11 @@ The package `templateRpackage` is released under the [MIT](https://choosealicens
 
 Please cite `templateRpackage` as: 
 
+```{r results='asis'}
+citation("templateRpackage")
+```
+
+
 > Rodriguez-Sanchez Francisco (`r format(Sys.Date(), "%Y")`) templateRpackage: An R package to **{{ TITLE }}**. R package version 0.0.0.9000. <https://github.com/{{github_account}}/templateRpackage/>
 
 
