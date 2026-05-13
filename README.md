@@ -8,7 +8,6 @@
 [![Project Status:
 WIP](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
 [![LifeCycle](https://img.shields.io/badge/lifecycle-experimental-orange)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
-<!-- [![Dependencies](https://img.shields.io/badge/dependencies-0/0-brightgreen?style=flat)](#) -->
 [![R CMD
 Check](https://github.com/Pakillo/templateRpackage/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Pakillo/templateRpackage/actions/workflows/R-CMD-check.yaml)
 [![Codecov test
