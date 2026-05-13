@@ -6,6 +6,6 @@ bibentry(
   author  = c(person("Rodriguez-Sanchez Francisco")),
   year    = "2026",
   note    = "R package version 0.0.0.9000",
-  url     = "https://github.com/{{github_account}}/templateRpackage"
+  url     = "https://github.com/Pakillo/templateRpackage"
 )
 
