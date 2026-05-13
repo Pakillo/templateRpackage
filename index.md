@@ -2,7 +2,8 @@
 
 ## Overview
 
-The goal of templateRpackage is to …
+An R package template ready to be used with continuous integration
+(GitHub Actions) and automated website.
 
 ## Installation
 
@@ -25,10 +26,11 @@ pak::pak("Pakillo/templateRpackage")
 
 ## Usage
 
-``` r
-
-library(templateRpackage)
-```
+After cloning the template using [GitHub
+instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template),
+run
+[`change_name()`](https://pakillo.github.io/templateRpackage/reference/change_name.html)
+to change the package name from ‘templateRpackage’ to your chosen name.
 
 ## Citation
 
