@@ -1,0 +1,47 @@
+# --------------------------------------------
+# CITATION file created with {cffr} R package
+# See also: https://docs.ropensci.org/cffr/
+# --------------------------------------------
+ 
+cff-version: 1.2.0
+message: 'To cite package "templateRpackage" in publications use:'
+type: software
+license: MIT
+title: 'templateRpackage: What the Package Does (One Line, Title Case)'
+version: 0.0.0.9000
+abstract: What the package does (one paragraph).
+authors:
+- family-names: Rodriguez-Sanchez
+  given-names: Francisco
+  email: f.rodriguez.sanc@gmail.com
+  orcid: https://orcid.org/0000-0002-7981-1599
+preferred-citation:
+  type: manual
+  title: 'templateRpackage: An R package to ...'
+  authors:
+  - name: Rodriguez-Sanchez Francisco
+  year: '2026'
+  notes: R package version 0.0.0.9000
+  url: https://github.com/github_account/templateRpackage
+repository-code: https://github.com/Pakillo/templateRpackage
+url: https://github.com/Pakillo/templateRpackage
+contact:
+- family-names: Rodriguez-Sanchez
+  given-names: Francisco
+  email: f.rodriguez.sanc@gmail.com
+  orcid: https://orcid.org/0000-0002-7981-1599
+references:
+- type: software
+  title: testthat
+  abstract: 'testthat: Unit Testing for R'
+  notes: Suggests
+  url: https://testthat.r-lib.org
+  repository: https://CRAN.R-project.org/package=testthat
+  authors:
+  - family-names: Wickham
+    given-names: Hadley
+    email: hadley@posit.co
+  year: '2026'
+  doi: 10.32614/CRAN.package.testthat
+  version: '>= 3.0.0'
+
