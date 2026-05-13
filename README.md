@@ -11,9 +11,10 @@ WIP](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.o
 [![Dependencies](https://img.shields.io/badge/dependencies-0/0-brightgreen?style=flat)](#)
 [![R CMD
 Check](https://github.com/Pakillo/templateRpackage/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Pakillo/templateRpackage/actions/workflows/R-CMD-check.yaml)
-[![Test
-coverage](https://github.com/Pakillo/templateRpackage/actions/workflows/test-coverage.yaml/badge.svg)](https://github.com/Pakillo/templateRpackage/actions/workflows/test-coverage.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/Pakillo/templateRpackage/graph/badge.svg)](https://app.codecov.io/gh/Pakillo/templateRpackage)
 [![Website](https://github.com/Pakillo/templateRpackage/actions/workflows/pkgdown.yaml/badge.svg)](https://github.com/Pakillo/templateRpackage/actions/workflows/pkgdown.yaml)
+
 <!-- badges: end -->
 
 <p align="left">
