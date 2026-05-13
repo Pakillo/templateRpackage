@@ -55,7 +55,7 @@ library(templateRpackage)
 
 Please cite `templateRpackage` as: 
 
-```{r results='asis'}
+```{r comment=NA}
 citation("templateRpackage")
 ```
 
