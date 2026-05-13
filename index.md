@@ -35,22 +35,23 @@ library(templateRpackage)
 Please cite `templateRpackage` as:
 
 ``` r
-
 citation("templateRpackage")
-```
-
 To cite templateRpackage in publications use:
 
-Rodriguez-Sanchez Francisco (2026). *templateRpackage: An R package to
-…*. R package version 0.0.0.9000,
-<https://github.com/%7B%7Bgithub_account%7D%7D/templateRpackage>.
+  Rodriguez-Sanchez Francisco (2026). _templateRpackage: An R package
+  to ..._. R package version 0.0.0.9000,
+  <https://github.com/%7B%7Bgithub_account%7D%7D/templateRpackage>.
 
 A BibTeX entry for LaTeX users is
 
-@Manual{, title = {templateRpackage: {An} {R} package to …}, author =
-{{Rodriguez-Sanchez Francisco}}, year = {2026}, note = {R package
-version 0.0.0.9000}, url =
-{<https://github.com/>{{github_account}}/templateRpackage}, }
+  @Manual{,
+    title = {templateRpackage: {An} {R} package to ...},
+    author = {{Rodriguez-Sanchez Francisco}},
+    year = {2026},
+    note = {R package version 0.0.0.9000},
+    url = {https://github.com/{{github_account}}/templateRpackage},
+  }
+```
 
 ## Contributing
 
