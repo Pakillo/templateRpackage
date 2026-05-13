@@ -12,12 +12,12 @@ Source:
 
 Rodriguez-Sanchez Francisco (2026). *templateRpackage: An R package to
 ...*. R package version 0.0.0.9000,
-<https://github.com/%7B%7Bgithub_account%7D%7D/templateRpackage>.
+<https://github.com/Pakillo/templateRpackage>.
 
     @Manual{,
       title = {templateRpackage: {An} {R} package to ...},
       author = {{Rodriguez-Sanchez Francisco}},
       year = {2026},
       note = {R package version 0.0.0.9000},
-      url = {https://github.com/{{github_account}}/templateRpackage},
+      url = {https://github.com/Pakillo/templateRpackage},
     }
